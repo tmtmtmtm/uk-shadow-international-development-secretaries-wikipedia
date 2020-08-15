@@ -1,0 +1,354 @@
+[
+  {
+    "item": {
+      "value": "Q7626661",
+      "label": "Stuart Holland"
+    },
+    "replaces": {
+      "value": "Q5622076",
+      "label": "Guy Barnett"
+    },
+    "start": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7626661$ABDDD19C-C09C-439A-A0B8-74C86650A0A9"
+  },
+  {
+    "item": {
+      "value": "Q285249",
+      "label": "Ann Clwyd"
+    },
+    "replaces": {
+      "value": "Q5622076",
+      "label": "Guy Barnett"
+    },
+    "replacedBy": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "start": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q285249$431EEC8B-39DD-4B1B-BAB0-4E5A84A54D8B"
+  },
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replaces": {
+      "value": "Q285249",
+      "label": "Ann Clwyd"
+    },
+    "replacedBy": {
+      "value": "Q271935",
+      "label": "Tom Clarke"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$93579CC3-1C69-4A3B-AD23-32E865391ED6"
+  },
+  {
+    "item": {
+      "value": "Q271935",
+      "label": "Tom Clarke"
+    },
+    "replaces": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replacedBy": {
+      "value": "Q6205220",
+      "label": "Joan Lestor, Baroness Lestor of Eccles"
+    },
+    "start": {
+      "value": "1993-10-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q271935$CC6256CD-2B94-43E4-BE6D-1177CB5DE2C0"
+  },
+  {
+    "item": {
+      "value": "Q333550",
+      "label": "Clare Short"
+    },
+    "replaces": {
+      "value": "Q6205220",
+      "label": "Joan Lestor, Baroness Lestor of Eccles"
+    },
+    "replacedBy": {
+      "value": "Q334258",
+      "label": "Alastair Goodlad"
+    },
+    "start": {
+      "value": "1996-07-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333550$C692E162-3EDF-4132-B5EE-1F4341E1DB45"
+  },
+  {
+    "item": {
+      "value": "Q334258",
+      "label": "Alastair Goodlad"
+    },
+    "replaces": {
+      "value": "Q333550",
+      "label": "Clare Short"
+    },
+    "replacedBy": {
+      "value": "Q328791",
+      "label": "Gary Streeter"
+    },
+    "start": {
+      "value": "1997-06-30T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334258$F6C42B31-1B9E-461C-804D-B6E93432967E"
+  },
+  {
+    "item": {
+      "value": "Q328791",
+      "label": "Gary Streeter"
+    },
+    "replaces": {
+      "value": "Q334258",
+      "label": "Alastair Goodlad"
+    },
+    "replacedBy": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "start": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q328791$E3C4D023-FABE-41C6-B4A0-9F6DEFEA9F3F"
+  },
+  {
+    "item": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replaces": {
+      "value": "Q328791",
+      "label": "Gary Streeter"
+    },
+    "replacedBy": {
+      "value": "Q263147",
+      "label": "John Bercow"
+    },
+    "start": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332954$1D994798-AEBE-4C17-9BA9-AE7A1D1FAF58"
+  },
+  {
+    "item": {
+      "value": "Q263147",
+      "label": "John Bercow"
+    },
+    "replaces": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replacedBy": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "start": {
+      "value": "2003-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-09-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q263147$31cc49e8-4e87-c0ad-c014-f3c73b579f59"
+  },
+  {
+    "item": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replaces": {
+      "value": "Q263147",
+      "label": "John Bercow"
+    },
+    "replacedBy": {
+      "value": "Q333261",
+      "label": "Andrew Mitchell"
+    },
+    "start": {
+      "value": "2004-09-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302417$9F4F029A-4BA4-402D-883D-630F48BC8CB3"
+  },
+  {
+    "item": {
+      "value": "Q333261",
+      "label": "Andrew Mitchell"
+    },
+    "replaces": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replacedBy": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "start": {
+      "value": "2005-05-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333261$7685dc10-4f31-d796-8d9e-b6fad236d37a"
+  },
+  {
+    "item": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replaces": {
+      "value": "Q333261",
+      "label": "Andrew Mitchell"
+    },
+    "replacedBy": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259106$592C8025-EDC9-4AD0-BFF6-F227A2FA0207"
+  },
+  {
+    "item": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replaces": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replacedBy": {
+      "value": "Q749659",
+      "label": "Ivan Lewis"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "q234182$87ba23e3-4902-cfec-5d40-15674a1fc245"
+  },
+  {
+    "item": {
+      "value": "Q749659",
+      "label": "Ivan Lewis"
+    },
+    "replaces": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replacedBy": {
+      "value": "Q333702",
+      "label": "Jim Murphy"
+    },
+    "start": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q749659$1B8A5F69-E3BC-444D-86E9-FECC5F3DECC8"
+  },
+  {
+    "item": {
+      "value": "Q333702",
+      "label": "Jim Murphy"
+    },
+    "replaces": {
+      "value": "Q749659",
+      "label": "Ivan Lewis"
+    },
+    "replacedBy": {
+      "value": "Q291470",
+      "label": "Mary Creagh"
+    },
+    "start": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2014-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333702$365918F2-DDC2-47BB-931D-2E52A7F98EA4"
+  },
+  {
+    "item": {
+      "value": "Q153454",
+      "label": "Diane Abbott"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q153454$5cabc334-431d-23a8-4fe6-42a34a053e7b"
+  }
+]
