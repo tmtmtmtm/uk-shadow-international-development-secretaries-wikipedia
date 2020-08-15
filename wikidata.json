@@ -1,6 +1,48 @@
 [
   {
     "item": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "replacedBy": {
+      "value": "Q333431",
+      "label": "Christopher Chataway"
+    },
+    "start": {
+      "value": "1964-10-01T00:00:00Z",
+      "precision": "10"
+    },
+    "end": {
+      "value": "1965-10-01T00:00:00Z",
+      "precision": "10"
+    },
+    "statement": "Q333896$682DBEDC-0707-42AE-B145-DA636EA27C1C"
+  },
+  {
+    "item": {
+      "value": "Q333431",
+      "label": "Christopher Chataway"
+    },
+    "replaces": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "replacedBy": {
+      "value": "Q7330071",
+      "label": "Richard Wood, Baron Holderness"
+    },
+    "start": {
+      "value": "1965-10-01T00:00:00Z",
+      "precision": "10"
+    },
+    "end": {
+      "value": "1966-03-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333431$5B2B94C5-665B-4248-AA9A-7663B91CAD3B"
+  },
+  {
+    "item": {
       "value": "Q7626661",
       "label": "Stuart Holland"
     },
